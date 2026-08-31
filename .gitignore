@@ -10,7 +10,7 @@ application/logs/*
 !application/logs/index.html
 
 # User uploads (keep directory structure)
-uploads/*
+#uploads/*
 !uploads/index.html
 user_uploads/*
 !user_uploads/index.html
