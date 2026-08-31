@@ -1,0 +1,153 @@
+---
+DBC_PURPOSE_SALE: Sale
+DBC_PURPOSE_RENT: Rent
+DBC_PURPOSE_BOTH: Sale & Rent
+DBC_TYPE_APARTMENT: Apartment
+DBC_TYPE_HOUSE: House
+DBC_TYPE_LAND: Land
+DBC_TYPE_COMSPACE: Commercial Space
+DBC_CONDITION_NEW: New
+DBC_CONDITION_SOLD: Sold
+DBC_CONDITION_AVAILABLE: Available
+DBC_CONDITION_AUCTION: Auction
+sign_in: Sign In
+sign_up: Sign Up
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+logout: Logout
+find_your_place: Find Your Place
+search_text_banner: Search for Address, Neighbourhood, City or State
+DBC_ADVANCED_SEARCH: Advanced Search
+recent_estates: Recent Estates
+DBC_AGENTS: Agents
+no_estates_found: No Estates Found
+DBC_HOME: Home
+DBC_ABOUT: About
+DBC_CONTACT: Contact
+plain_search: Plain Search
+ignore_this_section: Ignore this section
+location_search: Location Search
+country: Country
+state_province: State/Province
+city: City
+price: Price
+bedrooms: Bedrooms
+bathrooms: Bathrooms
+year_built: Year Built
+phone: Phone
+first_name: First Name
+last_name: Last Name
+company_name: Company Name
+register: Register
+type: Type
+area: Area
+details: Details
+view_all: View All
+featured_estates: Featured Estates
+order_by: Order By
+none: None
+terms_and_conditions: Terms and Confition
+reg_success_message: Your account registration is successfull. An email was sent to your email. Please follow that email to activate your account.Thanks
+limit: Limit
+usage: Usage
+recover: Recover
+oops: Oops, page not found
+share_this: Share This
+baths: Baths
+status: Status
+description: Description
+general_amenities: General Amenities
+location_map: Location Map
+image_gallery: Image Gallery
+summary: Summary
+overview: Overview
+address: Address
+agent: Agent
+message: Message
+username: Username
+about_me: About Me
+DBC_PER_MONTH: Per Month
+DBC_PER_QUARTER: Per Quarter
+DBC_PER_YEAR: Per Year
+DBC_TYPE_CONDO: Condo
+DBC_TYPE_VILLA: Villa
+type_filers: Type Filters
+purpose_filters: Purpose Filters
+email_subject: Email Subject
+all: All
+DBC_DELETED: Deleted
+agent_estates: Agent Estates
+all_agents: All Agents
+contact_us: Contact Us
+DBC_ACTIVE: Active
+radius: Radius
+featured_video: Featured Video
+estates: Estates
+embed_video_url: Embeded Video Url
+DBC_PENDING: Pending
+profile_picture: Profile Picture
+top_estates: Top Estates
+estate: Estate
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Advanced Filters
+purpose: Purpose
+result: Result
+agent_not_found: Agent Not Found
+payment_notification: You are going to make an payment. A email is sent to your email. You can back to this step anytime from the link on that email.
+confirmation: Confirmation
+distance: Distance
+tags: Tags
+zip_code: Zip Code
+embed_preview: Embed Preview
+login: Login
+post_not_found: Post not Found
+view_more: View More
+choose_a_package: Choose a Package
+no_package_found: No Package found
+days: Days
+posts: Posts
+change: Change
+subscribe: Subscribe
+home_size: Home Size
+lot_size: Lot Size
+DBC_PAGES: Pages
+DBC_BLOG: Blog
+DBC_NEWS: News
+DBC_ARTICLES: Articles
+DBC_REPORTED: Reported
+all_estates: All Estates
+title: Title
+image: Image
+condition: Condition
+sales_price: Sales Price
+price_per_unit: Price per Unit
+rent_price: Rent Price
+energy_efficiency: Energy Efficiency
+custom_fields: Custom Fields
+view_on_map: View on Map
+featured_image: Featured Image
+estate_add_status_video: First create estate. Then you'll be able to add youtube or vimeo url from edit option
+estate_add_status_gallery: First create property. Then you'll be able to upload gallery photos from edit option
+create: Create
+basic_info: Basic Information
+estate_brochure: Estate Brochure
+add_another: Add Another
+update: Update
+subject: Subject
+send: Send
+all_email_to_agent: All Emails to Agents
+actions: Actions
+name: Name
+email_detail: Email Detail
+change_package: Change Package
+bank_transfer: Bank Transfer
+contact_subject: Contact Email
+payment_finish_title: Payment Complete
+payment_renew_title: Payment Complete
+payment_finish_text: Your payment is complete. As soon as we recieved confirmation from paypal your account will be activated
+payment_renew_text: Your payment is complete. As soon as we recieved confirmation from paypal your account will be renewed
+payment_cancel_title: Payment Cancel
+payment_cancel_text: Your payment is canceled
+feature_payment_finish: Your payment is complete. As soon as we recieve confirmation from paypal, your estate will be featured.
+feature_payment_cancel: Your payment is canceled.

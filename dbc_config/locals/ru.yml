@@ -1,0 +1,153 @@
+---
+DBC_PURPOSE_SALE: Сале
+DBC_PURPOSE_RENT: Плата за прокат
+DBC_PURPOSE_BOTH: Сале
+DBC_TYPE_APARTMENT: Квартира
+DBC_TYPE_HOUSE: Дом
+DBC_TYPE_LAND: земля
+DBC_TYPE_COMSPACE: Коммерческая
+DBC_CONDITION_NEW: Создать
+DBC_CONDITION_SOLD: Проданный
+DBC_CONDITION_AVAILABLE: Доступный
+DBC_CONDITION_AUCTION: Аукцион
+sign_in: войдите в систему
+sign_up: Зарегистрировать аккаунт
+agent_panel: Панель Agent
+admin_panel: Панель администратора
+logout: Выход
+find_your_place: Найди свое место
+search_text_banner: Поиск адреса, соседства, города или государства
+DBC_ADVANCED_SEARCH: расширенный поиск
+recent_estates: Последние недвижимости
+DBC_AGENTS: Агент
+no_estates_found: Нет недвижимости не найдены
+DBC_HOME: Дом
+DBC_ABOUT: О нас
+DBC_CONTACT: Контакты
+plain_search: Обычная Поиск
+ignore_this_section: Пропустите этот раздел
+location_search: Расположение поиск
+country: Страна
+state_province: Штат/область
+city: Город
+price: Цена
+bedrooms: Спальня
+bathrooms: Ванная
+year_built: Год постройки
+phone: Телефон
+first_name: Имя
+last_name: Фамилия
+company_name: Название компании
+register: Зарегистрироваться
+type: Тип
+area: Область
+details: Подробности
+view_all: Мониторы Электроника и принадлежности
+featured_estates: Избранные недвижимости
+order_by: 'Сортировать по:'
+none: Отсутствует
+terms_and_conditions: Условия и Confition
+reg_success_message: Ваш регистрационный счет удачной. Письмо было отправлено по электронной почте. Пожалуйста, следуйте ту электронную почту, чтобы активировать account.Thanks
+limit: Предел
+usage: 'Польза:'
+recover: Восстановление
+oops: Нам, страница не найдена
+share_this: Поделиться этой
+baths: Бат
+status: Состояние
+description: Описание
+general_amenities: Общие Удобства
+location_map: Расположение на карте
+image_gallery: Поддержка
+summary: Резюме
+overview: Общий обзор
+address: Адрес
+agent: Агент
+message: Сообщение
+username: паывпавПользователь
+about_me: Обо мне
+DBC_PER_MONTH: в месяц
+DBC_PER_QUARTER: квартал
+DBC_PER_YEAR: % в год
+DBC_TYPE_CONDO: Кондоминиум
+DBC_TYPE_VILLA: Вилла
+type_filers: Тип Фильтры
+purpose_filters: Назначение Фильтры
+email_subject: Тема электронного письма
+all: Все
+DBC_DELETED: Delete
+agent_estates: Агент недвижимости
+all_agents: Все агенты
+contact_us: Обратная связь
+DBC_ACTIVE: Активен
+radius: Радиус
+featured_video: Лучшее видео
+estates: Estates
+embed_video_url: Embeded Ссылка на видео
+DBC_PENDING: В ожидании
+profile_picture: Профиль фото
+top_estates: Топ недвижимости
+estate: усадьба
+email_tracker: E-mail Tracker
+bulk_email: Спам
+advanced_filters: Расширенные фильтры
+purpose: Цель
+result: Результат
+agent_not_found: Агент не найден
+payment_notification: Вы собираетесь совершить платеж. Письмо будет отправлено по электронной почте. Вы можете вернуться к этой стадии в любое время по ссылке на этой электронной почте.
+confirmation: Подтверждение
+distance: Расстояние
+tags: Таг
+zip_code: ZIP-код
+embed_preview: Вставить изображение
+login: Авторизоваться
+post_not_found: Дать не найдены
+view_more: Просмотреть больше
+choose_a_package: Выберите пакет
+no_package_found: Не пакет не найдено
+days: Сутки
+posts: Сообщений
+change: Изменить
+subscribe: Подписаться
+home_size: Главная Размер
+lot_size: Размер лота
+DBC_PAGES: Страницы
+DBC_BLOG: Блог
+DBC_NEWS: Новости
+DBC_ARTICLES: Статья
+DBC_REPORTED: Сообщается
+all_estates: Все недвижимости
+title: Название
+image: Изображение
+condition: Состояние
+sales_price: Продажная стоимость
+price_per_unit: Цена за шт
+rent_price: Стоимость аренды
+energy_efficiency: Энергоэффективность
+custom_fields: Настраиваемые поля
+view_on_map: Посмотреть на карте
+featured_image: Избранные изображения
+estate_add_status_video: Сначала создайте недвижимости. Тогда вы сможете добавить юность или Vimeo URL от редактирования опции
+estate_add_status_gallery: Сначала создайте недвижимость. Тогда вы сможете загрузить галерея фотографии из редактирования опции
+create: Создать
+basic_info: 'Основная информация'
+estate_brochure: Брошюра недвижимости
+add_another: Добавить еще
+update: Обновление
+subject: Тема
+send: Отправить
+all_email_to_agent: Все электронные письма агентов
+actions: Действия при эвакуации
+name: Наименование
+email_detail: 'E-mail: Подробности'
+change_package: Изменить пакет
+bank_transfer: Денежный перевод
+contact_subject: Контактный адрес электронной почты
+payment_finish_title: Оплата Полный
+payment_renew_title: Оплата Полный
+payment_finish_text: Ваш платеж будет завершена. Как только мы получили подтверждение от Paypal Ваш аккаунт будет активирован
+payment_renew_text: Ваш платеж будет завершена. Как только мы получили подтверждение от PayPal аккаунт будет продлен
+payment_cancel_title: Оплата Отменить
+payment_cancel_text: Ваш платеж будет отменен
+feature_payment_finish: Ваш платеж будет завершена. Как только мы получим подтверждение от PayPal, ваше имущество будет показан.
+feature_payment_cancel: Ваш платеж будет отменен.

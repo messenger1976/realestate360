@@ -1,0 +1,153 @@
+---
+DBC_PURPOSE_SALE: satış
+DBC_PURPOSE_RENT: Kira ücreti
+DBC_PURPOSE_BOTH: satış
+DBC_TYPE_APARTMENT: Apartman
+DBC_TYPE_HOUSE: Ev
+DBC_TYPE_LAND: Arazi
+DBC_TYPE_COMSPACE: Ticari Uzay
+DBC_CONDITION_NEW: Yeni
+DBC_CONDITION_SOLD: Satıldı
+DBC_CONDITION_AVAILABLE: Kullanılabilir
+DBC_CONDITION_AUCTION: Müzayede
+sign_in: Oturum aç
+sign_up: Kaydol
+agent_panel: Ajan Paneli
+admin_panel: Yönetici Paneli
+logout: Logout
+find_your_place: Your Place bul
+search_text_banner: Adres, Mahalle, Şehir veya Devlet için ara
+DBC_ADVANCED_SEARCH: Detaylı Arama
+recent_estates: Son Estates
+DBC_AGENTS: Ajan
+no_estates_found: Hayır Estates Bulundu
+DBC_HOME: Ana sayfa
+DBC_ABOUT: Hakkında
+DBC_CONTACT: Contact
+plain_search: Düz Arama
+ignore_this_section: Bu bölümü görmezden
+location_search: Yer arama
+country: Ülke
+state_province: Eyalet / İl
+city: Şehir
+price: Fiyat
+bedrooms: Yatak odası
+bathrooms: Banyo
+year_built: Yapım Yılı
+phone: Telefon
+first_name: Adı
+last_name: Soyadı
+company_name: Şirket Adı
+register: Kaydet
+type: Tür
+area: Alan
+details: Detaylar
+view_all: Ağ Ürünleri Tümünü görüntüle
+featured_estates: Öne Estates
+order_by: 'Sipariş veren:'
+none: Hiçbiri
+terms_and_conditions: Şartlar ve Confition
+reg_success_message: Hesabınız kayıt başarılıdır. Bir e-posta, e-posta gönderildi. Sizin account.Thanks etkinleştirmek için bu e-posta takip edin
+limit: Limit
+usage: Kullanım
+recover: Kurtar
+oops: Üzgünüz, sayfa bulunamadı
+share_this: Bu paylaş
+baths: Banyolar
+status: Durum
+description: Tanım
+general_amenities: Genel Tesis Özellikleri
+location_map: Yer Haritası
+image_gallery: Resim Galerisi
+summary: Özet
+overview: Genel Bakış
+address: Adres
+agent: Ajan
+message: Mesaj
+username: Kullanıcı
+about_me: Benim hakkımda
+DBC_PER_MONTH: Aylık
+DBC_PER_QUARTER: Çeyrek başına
+DBC_PER_YEAR: Her Yıl
+DBC_TYPE_CONDO: Condo
+DBC_TYPE_VILLA: Villa
+type_filers: Tipi Filtreler
+purpose_filters: Amaç Filtreler
+email_subject: E-posta Konusu
+all: Tümü
+DBC_DELETED: Silindi
+agent_estates: Ajan Estates
+all_agents: Tüm Ajanlar
+contact_us: Bize Ulaşın
+DBC_ACTIVE: Aktif
+radius: Yarıçap
+featured_video: Seçme Video
+estates: Estates
+embed_video_url: Gömülü Video Url
+DBC_PENDING: Beklemede
+profile_picture: Profil Resmi
+top_estates: En Estates
+estate: Gayrimenkul
+email_tracker: E-posta Tracker
+bulk_email: Toplu E-posta
+advanced_filters: Gelişmiş Filtreler
+purpose: Amaç
+result: Sonuç
+agent_not_found: Ajan Bulunamadı
+payment_notification: Bir ödeme yapmak için gidiyoruz. Bir e-posta, e-posta gönderilir. Bunu e-posta bağlantıdan zaman bu adıma yedekleyebilirsiniz.
+confirmation: Onay
+distance: Mesafe
+tags: Etiketler
+zip_code: Posta Kodu
+embed_preview: Göm Önizleme
+login: Oturum açma
+post_not_found: Bulunamadı
+view_more: Daha görüntüle
+choose_a_package: Paket seçiniz
+no_package_found: Bulunamadı Paketi
+days: Gün
+posts: Mesajlar
+change: Change
+subscribe: Abone ol
+home_size: Ana Sayfa Boyutu
+lot_size: Lot Büyüklüğü
+DBC_PAGES: Sayfa
+DBC_BLOG: Blog
+DBC_NEWS: Haberler
+DBC_ARTICLES: 'Makaleler:'
+DBC_REPORTED: Bildirilen
+all_estates: Tüm Estates
+title: Unvan
+image: görüntü
+condition: Koşul
+sales_price: Satış Fiyatı
+price_per_unit: Birim Fiyat
+rent_price: Kira
+energy_efficiency: enerji verimliliği
+custom_fields: Özel Alanlar
+view_on_map: Haritada Görüntüle
+featured_image: Öne Görüntü
+estate_add_status_video: İlk gayrimenkul oluşturun. Sonra düzenlemek seçeneğinden youtube veya vimeo url eklemek mümkün olacak
+estate_add_status_gallery: İlk özelliği oluşturun. Sonra düzenlemek seçeneğinden galeri fotoğraf yüklemek mümkün olacak
+create: Oluştur
+basic_info: Temel Bilgiler
+estate_brochure: Emlak Broşür
+add_another: Başka ekle
+update: Güncelle
+subject: Konu
+send: Gönder
+all_email_to_agent: Ajanlar tüm e-postalar
+actions: Eylemler
+name: 'Öğrenci Adı-Soyadı:'
+email_detail: E-posta Detay
+change_package: Paket Değiştir
+bank_transfer: Banka Transferi
+contact_subject: E-posta İletişim
+payment_finish_title: Ödeme Komple
+payment_renew_title: Ödeme Komple
+payment_finish_text: Ödemeniz tamamlandı. Biz paypal onayı alınan kısa sürede hesabınız aktif olacaktır
+payment_renew_text: Ödemeniz tamamlandı. Biz paypal onayı alınan kısa sürede hesabınız yenilenmiş olacaktır
+payment_cancel_title: Ödeme İptal
+payment_cancel_text: Ödemeniz iptal edilir
+feature_payment_finish: Ödemeniz tamamlandı. En kısa sürede biz paypal onay alıcaksınız gibi, sizin emlak özellikli olacak.
+feature_payment_cancel: Ödemeniz iptal edilir.

@@ -1,0 +1,153 @@
+---
+DBC_PURPOSE_SALE: بيع
+DBC_PURPOSE_RENT: إيجار
+DBC_PURPOSE_BOTH: بيع
+DBC_TYPE_APARTMENT: شقة
+DBC_TYPE_HOUSE: منزل
+DBC_TYPE_LAND: أراضي
+DBC_TYPE_COMSPACE: مساحة تجارية
+DBC_CONDITION_NEW: جديد
+DBC_CONDITION_SOLD: باعت
+DBC_CONDITION_AVAILABLE: متوفر
+DBC_CONDITION_AUCTION: مزاد
+sign_in: تسجيل الدخول
+sign_up: سجل الاشتراك
+agent_panel: لوحة الوكيل
+admin_panel: لوحة المشرف
+logout: تسجيل الخروج
+find_your_place: تجد مكانك
+search_text_banner: البحث عن العناوين، الجوار، مدينة أو دولة
+DBC_ADVANCED_SEARCH: بحث متقدم
+recent_estates: عقارات الأخيرة
+DBC_AGENTS: عميل
+no_estates_found: لم عقارات التي تم العثور عليها
+DBC_HOME: الصفحة الرئيسية
+DBC_ABOUT: نبذة
+DBC_CONTACT: الاتصال
+plain_search: بحث عادي
+ignore_this_section: تجاهل هذا القسم
+location_search: البحث عن مكان
+country: البلد
+state_province: المحافظة/المنطقة
+city: المدينة
+price: سعر
+bedrooms: غرفة النوم
+bathrooms: حمام
+year_built: بنيت عام
+phone: الهاتف
+first_name: الاسم الأول
+last_name: اسم العائلة
+company_name: اسم الشركة
+register: تسجيل
+type: النوع
+area: منطقة
+details: التفاصيل
+view_all: عرض الكل
+featured_estates: عقارات مميزة
+order_by: الترتيب حسب
+none: لا شيء
+terms_and_conditions: شروط وConfition
+reg_success_message: تسجيل حسابك ناجحا. تم إرسال رسالة إلكترونية إلى البريد الإلكتروني الخاص بك. يرجى اتباع أن البريد الإلكتروني لتنشيط account.Thanks الخاصة بك
+limit: الحد
+usage: استخدام
+recover: يسترد
+oops: عفوا، لم يتم العثور على الصفحة
+share_this: شارك هذا
+baths: الحمامات
+status: الحالة
+description: البيان
+general_amenities: المرافق العامة
+location_map: انقر هنا للبدء في التثبيت.
+image_gallery: معرض الصور
+summary: الملخص
+overview: نظرة عامة
+address: العنوان
+agent: عميل
+message: الرسالة
+username: مستخدم
+about_me: معلومات عني
+DBC_PER_MONTH: كل شهر
+DBC_PER_QUARTER: في الربع
+DBC_PER_YEAR: لكل سنة
+DBC_TYPE_CONDO: الشقة
+DBC_TYPE_VILLA: فيلا
+type_filers: نوع الفلاتر
+purpose_filters: مرشحات الغرض
+email_subject: موضوع الرسالة
+all: كافة الإصدارات
+DBC_DELETED: محذوف
+agent_estates: وكيل عقارات
+all_agents: جميع وكلاء
+contact_us: اتصلوا بنا
+DBC_ACTIVE: نشط
+radius: الكعبرة
+featured_video: شارك الفيديو
+estates: العقارات
+embed_video_url: مطعم ب رابط الفيديو
+DBC_PENDING: معلق
+profile_picture: الصورة الشخصية
+top_estates: أعلى عقارات
+estate: عقار / ممتلكات
+email_tracker: البريد الإلكتروني المقتفي
+bulk_email: السائبة البريد الإلكتروني
+advanced_filters: مرشحات متقدمة
+purpose: الغرض
+result: النتيجkayfa haloka
+agent_not_found: لم يتم العثور على وكيل
+payment_notification: أنت ذاهب لجعل الدفع. يتم إرسال رسالة إلى البريد الإلكتروني الخاص بك. يمكنك العودة إلى هذه الخطوة في أي وقت من وصلة على أن البريد الإلكتروني.
+confirmation: Confirmation
+distance: مسافة
+tags: علامات
+zip_code: الرمز البريدي
+embed_preview: تضمين معاينة
+login: تسجيل الدخول
+post_not_found: أضف لم يتم العثور على
+view_more: عرض المزيد
+choose_a_package: اختيار حزمة
+no_package_found: لا توجد حزمة
+days: يوم
+posts: المشاركات
+change: تغيير
+subscribe: اشترك
+home_size: الرئيسية الحجم
+lot_size: الكثير الحجم
+DBC_PAGES: صفحة
+DBC_BLOG: مدونة
+DBC_NEWS: أخبار
+DBC_ARTICLES: ويكيبيديا:مواضيع المقالات
+DBC_REPORTED: منقول
+all_estates: كل العقارات
+title: Title
+image: Image
+condition: الشرط
+sales_price: سعر البيع
+price_per_unit: سعر الوحدة، دولار أمريكي
+rent_price: للإيجار السعر
+energy_efficiency: كفاءة الطاقة
+custom_fields: الحقول المخصصة
+view_on_map: عرض على الخريطة
+featured_image: صورة مميزة
+estate_add_status_video: أولا إنشاء العقارات. ثم عليك أن تكون قادرا على إضافة يوتيوب أو فيميو رابط من خيار تحرير
+estate_add_status_gallery: أولا إنشاء الملكية. ثم عليك أن تكون قادرا على تحميل معرض الصور من خيار تحرير
+create: أنشئ
+basic_info: معلومات أساسية
+estate_brochure: العقارات كتيب
+add_another: إضافة أخرى
+update: تحديث
+subject: Subject
+send: إرسال
+all_email_to_agent: جميع رسائل البريد الإلكتروني وكلاء
+actions: إجراءات
+name: الاسم
+email_detail: البريد الإلكتروني التفاصيل
+change_package: تغيير حزمة
+bank_transfer: حوالة مصرفية
+contact_subject: البريد الالكتروني للاتصال
+payment_finish_title: الدفع الكامل
+payment_renew_title: الدفع الكامل
+payment_finish_text: الدفع كاملة. بأسرع ما تلقي تأكيد من باي بال سيتم تفعيل حسابك
+payment_renew_text: الدفع كاملة. بأسرع ما تلقي تأكيد من باي بال سيتم تجديد حسابك
+payment_cancel_title: دفع إلغاء
+payment_cancel_text: تم إلغاء دفعك
+feature_payment_finish: الدفع كاملة. حالما نحصل تأكيدا من باي بال، وسوف تكون واردة العقارات الخاصة بك.
+feature_payment_cancel: تم إلغاء دفعتك.

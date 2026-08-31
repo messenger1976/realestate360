@@ -1,0 +1,153 @@
+---
+DBC_PURPOSE_SALE: বিক্রয়
+DBC_PURPOSE_RENT: ভাড়া
+DBC_PURPOSE_BOTH: বিক্রয়
+DBC_TYPE_APARTMENT: অ্যাপার্টমেন্ট
+DBC_TYPE_HOUSE: ঘর
+DBC_TYPE_LAND: ভূমি
+DBC_TYPE_COMSPACE: বাণিজ্যিক স্পেস
+DBC_CONDITION_NEW: নতুন (~ন)
+DBC_CONDITION_SOLD: বিক্রি
+DBC_CONDITION_AVAILABLE: উপলব্ধ
+DBC_CONDITION_AUCTION: নিলাম
+sign_in: সাইন ইন
+sign_up: সাইন আপ করুন
+agent_panel: এজেন্ট প্যানেল
+admin_panel: অ্যাডমিন প্যানেল
+logout: লগআউট
+find_your_place: আপনার স্থান খুঁজুন
+search_text_banner: ঠিকানা, নেইবারহুড, শহর বা রাজ্য জন্য অনুসন্ধান
+DBC_ADVANCED_SEARCH: উন্নত অনুসন্ধান
+recent_estates: সাম্প্রতিক এস্টেট
+DBC_AGENTS: এজেন্ট
+no_estates_found: কোন এস্টেট পাওয়া যায়নি
+DBC_HOME: বাড়ি
+DBC_ABOUT: সম্পর্কে
+DBC_CONTACT: যোগাযোগ
+plain_search: সাধারণ অনুসন্ধান
+ignore_this_section: এই অধ্যায় উপেক্ষা
+location_search: অবস্থান অনুসন্ধান
+country: দেশ
+state_province: রাজ্য / প্রদেশ
+city: শহর
+price: মূল্য
+bedrooms: বেডরুম
+bathrooms: বাথরুমে
+year_built: বছর অন্তর্নির্মিত
+phone: টেলিফোন
+first_name: নাম
+last_name: শেষ নাম
+company_name: কোম্পানির নাম
+register: নিবন্ধন
+type: প্রকার
+area: ক্ষেত্রফল
+details: বিস্তারিত
+view_all: দেখুন
+featured_estates: বৈশিষ্ট্যযুক্ত এস্টেট
+order_by: আদেশ
+none: কোনটি নয়
+terms_and_conditions: শর্তাবলী এবং Confition
+reg_success_message: আপনার অ্যাকাউন্ট নিবন্ধন সফল হয়. একটি ইমেইল আপনার ইমেইল পাঠানো হয়েছে. আপনার account.Thanks সক্রিয় করতে যে ইমেইল অনুসরণ করুন
+limit: সীমা
+usage: ব্যবহার
+recover: উদ্ধার
+oops: ওহো, পৃষ্ঠা খুঁজে পাওয়া যায় না
+share_this: এই শেয়ার করুন
+baths: Baths
+status: অবস্থা
+description: বিবরণ
+general_amenities: সাধারণ সাচ্ছন্দ্য
+location_map: অবস্থান মানচিত্র
+image_gallery: ইমেজ গ্যালারি
+summary: সারাংশ
+overview: পরিদর্শন
+address: ঠিকানা
+agent: এজেন্ট
+message: বার্তা
+username: ব্যবহারকারীর নাম
+about_me: আমার সম্পর্কে
+DBC_PER_MONTH: প্রতি মাস
+DBC_PER_QUARTER: চতুর্থাংশ প্রতি
+DBC_PER_YEAR: প্রতি বছর
+DBC_TYPE_CONDO: যুগ্ম মালিকানা
+DBC_TYPE_VILLA: ভিলা
+type_filers: টাইপ ফিল্টার
+purpose_filters: উদ্দেশ্য ফিল্টার
+email_subject: এটি ইমেল বিষয়
+all: সমস্ত
+DBC_DELETED: মুছে ফেলা
+agent_estates: এজেন্ট এস্টেট
+all_agents: সমস্ত এজেন্ট
+contact_us: আমাদের সাথে যোগাযোগ করুন
+DBC_ACTIVE: সক্রিয়
+radius: ব্যাসার্ধ
+featured_video: বৈশিষ্ট্যযুক্ত ভিডিও
+estates: এস্টেট
+embed_video_url: Embeded ভিডিও URL
+DBC_PENDING: অমীমাংসিত
+profile_picture: প্রোফাইল ছবি
+top_estates: শীর্ষ এস্টেট
+estate: স্টেট
+email_tracker: ইমেইল ট্র্যাকার
+bulk_email: বাল্ক ইমেইল
+advanced_filters: উন্নত ফিল্টার
+purpose: উদ্দেশ্য
+result: ফল
+agent_not_found: এজেন্ট পাওয়া যায়নি
+payment_notification: আপনি একটি পেমেন্ট করতে যাচ্ছে. একটি ইমেইল আপনার ইমেইল পাঠানো হয়. আপনি যে ইমেইল লিঙ্ক থেকে যে কোন সময় এই ধাপে ব্যাক করতে পারেন.
+confirmation: নিশ্চিতকরণ
+distance: durotta
+tags: ট্যাগ
+zip_code: জিপ কোড
+embed_preview: এম্বেড প্রিভিউ
+login: লগইন
+post_not_found: পোস্ট পাওয়া না
+view_more: আরো দেখুন
+choose_a_package: একটি প্যাকেজ নির্বাচন করুন
+no_package_found: পাওয়া কোন প্যাকেজ
+days: দিন
+posts: পোস্ট
+change: পরিবর্তন
+subscribe: সদস্যতা
+home_size: হোম ফাইলের আকার
+lot_size: অনেক ফাইলের আকার
+DBC_PAGES: পেজ
+DBC_BLOG: ব্লগ
+DBC_NEWS: সংবাদ
+DBC_ARTICLES: প্রবন্ধ
+DBC_REPORTED: রিপোর্ট
+all_estates: সমস্ত এস্টেট
+title: শিরোনাম (~ট)
+image: ছবি
+condition: পরিস্থিতি
+sales_price: বিক্রয় মূল্য
+price_per_unit: ইউনিট প্রতি মূল্য
+rent_price: ভাড়া মূল্য
+energy_efficiency: শক্তি ফলপ্রসু
+custom_fields: কাস্টম ক্ষেত্র
+view_on_map: ম্যাপে দেখুন
+featured_image: বৈশিষ্ট্যযুক্ত চিত্র
+estate_add_status_video: প্রথম এস্টেট তৈরি করুন. তারপর আপনি সম্পাদনা অপশন থেকে YouTube বা Vimeo URL যোগ করতে পারবেন
+estate_add_status_gallery: প্রথম সম্পত্তি তৈরি করুন. তারপর আপনি সম্পাদনা অপশন থেকে গ্যালারি ফটো আপলোড করতে পারবেন
+create: তৈরি করুন
+basic_info: মৌলিক তথ্য
+estate_brochure: স্টেট ইস্তাহার
+add_another: আরেকটি যোগ করুন
+update: পরিবর্ধন (~উ)
+subject: বিষয় (~স)
+send: পাঠান
+all_email_to_agent: এজেন্ট থেকে সব ইমেইল
+actions: পদক্ষেপ
+name: নাম
+email_detail: ইমেল বিস্তারিত
+change_package: পরিবর্তন প্যাকেজ
+bank_transfer: ব্যাংক ট্রান্সফার
+contact_subject: যোগাযোগ ইমেইল
+payment_finish_title: পেমেন্ট সম্পূর্ণ
+payment_renew_title: পেমেন্ট সম্পূর্ণ
+payment_finish_text: আপনার পেমেন্ট সম্পূর্ণ. আমরা পেপ্যাল ​​থেকে নিশ্চিতকরণ যায়নি যত তাড়াতাড়ি আপনার অ্যাকাউন্ট সক্রিয় করা হবে
+payment_renew_text: আপনার পেমেন্ট সম্পূর্ণ. আমরা পেপ্যাল ​​থেকে নিশ্চিতকরণ যায়নি যত তাড়াতাড়ি আপনার অ্যাকাউন্ট পুনর্নবীকরণ করা হবে
+payment_cancel_title: পেমেন্ট বাতিল
+payment_cancel_text: আপনার পেমেন্ট বাতিল করা হয়
+feature_payment_finish: আপনার পেমেন্ট সম্পূর্ণ. যত তাড়াতাড়ি আমরা পেপ্যাল ​​থেকে নিশ্চিতকরণ recieve, আপনার এস্টেট বৈশিষ্ট্যযুক্ত হবে.
+feature_payment_cancel: আপনার পেমেন্ট বাতিল করা হয়.

@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Logs and runtime files
+*.log
+error_log
+application/cache/*
+!application/cache/index.html
+application/logs/*
+!application/logs/index.html
+
+# User uploads (keep directory structure)
+uploads/*
+!uploads/index.html
+user_uploads/*
+!user_uploads/index.html
+
+# OS files
+.DS_Store
+Thumbs.db

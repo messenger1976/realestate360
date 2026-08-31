@@ -1,0 +1,153 @@
+---
+DBC_PURPOSE_SALE: Sale
+DBC_PURPOSE_RENT: Huren
+DBC_PURPOSE_BOTH: Sale
+DBC_TYPE_APARTMENT: Appartement
+DBC_TYPE_HOUSE: Huis
+DBC_TYPE_LAND: Land
+DBC_TYPE_COMSPACE: Commercial Space
+DBC_CONDITION_NEW: Nieuw
+DBC_CONDITION_SOLD: Verkocht
+DBC_CONDITION_AVAILABLE: Beschikbaar
+DBC_CONDITION_AUCTION: Veiling
+sign_in: Aanmelden
+sign_up: Lid worden
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+logout: Uitloggen
+find_your_place: Vind jouw plaats
+search_text_banner: Zoeken naar Adres, nabuurschap, stad of staat
+DBC_ADVANCED_SEARCH: Geavanceerd Zoeken
+recent_estates: Recente Estates
+DBC_AGENTS: Agents
+no_estates_found: Geen Estates gevonden
+DBC_HOME: Home
+DBC_ABOUT: Over Ons
+DBC_CONTACT: Contact
+plain_search: Plain Zoeken
+ignore_this_section: Negeer deze sectie
+location_search: Locatie Zoek
+country: Land
+state_province: Staat/provincie
+city: Plaats
+price: Prijs
+bedrooms: Slaapkamers
+bathrooms: Badkamers
+year_built: 'Bouwjaar:'
+phone: Telefoon
+first_name: Voornaam
+last_name: Achternaam
+company_name: Bedrijfsnaam
+register: Registreren
+type: Type
+area: Gebied
+details: Details
+view_all: Alles bekijken
+featured_estates: Aanbevolen Estates
+order_by: 'Sorteren op:'
+none: Geen
+terms_and_conditions: Algemene confition
+reg_success_message: Uw account registratie is succesvol. Een e-mail is verzonden naar uw e-mail. Volg die e-mail om uw account.Thanks activeren
+limit: Limiet
+usage: Gebruik
+recover: Herstellen
+oops: Pagina niet gevonden
+share_this: Deel deze app
+baths: Badhuis
+status: Status
+description: Beschrijving
+general_amenities: Algemene voorzieningen
+location_map: Location Map
+image_gallery: Galerij van afbeeldingen aanmaken
+summary: Samenvatting
+overview: Overzicht
+address: Adres
+agent: Agent
+message: Bericht
+username: Gebruikersnaam
+about_me: Over mij
+DBC_PER_MONTH: per maand
+DBC_PER_QUARTER: per kwartaal
+DBC_PER_YEAR: USD per jaar.
+DBC_TYPE_CONDO: Appartementsrecht
+DBC_TYPE_VILLA: Villa
+type_filers: Type Filters
+purpose_filters: Doel Filters
+email_subject: Onderwerp voor e-mailbericht
+all: Alle
+DBC_DELETED: Deletie
+agent_estates: Agent Estates
+all_agents: Alle Agents
+contact_us: Neem contact met ons op
+DBC_ACTIVE: Actief
+radius: Straal
+featured_video: Aanbevolen video
+estates: Landgoederen
+embed_video_url: Embeded Video Url
+DBC_PENDING: In afwachting
+profile_picture: Profile Picture
+top_estates: Top Estates
+estate: Estate
+email_tracker: E-mail Tracker
+bulk_email: Bulk Email
+advanced_filters: Geavanceerde filters
+purpose: Objectief
+result: Resultaat
+agent_not_found: Agent niet gevonden
+payment_notification: Je gaat om een ​​betaling uit te voeren. Een e-mail is naar uw e-mail verzonden. U kunt op elk moment terug naar deze stap van de link op die e-mail.
+confirmation: Bevestiging
+distance: Afstand
+tags: Tags
+zip_code: Postcode
+embed_preview: Voorbeelden insluiten
+login: Inloggen
+post_not_found: Niet gevonden
+view_more: Meer bekijken
+choose_a_package: Kies een pakket
+no_package_found: Geen pakket gevonden
+days: Dag
+posts: "Berichten"
+change: Wijzigen
+subscribe: Abonneren
+home_size: Thuis Maat
+lot_size: Lot Size
+DBC_PAGES: Page
+DBC_BLOG: Blog
+DBC_NEWS: Nieuws
+DBC_ARTICLES: Artikel
+DBC_REPORTED: Gerapporteerde
+all_estates: Alle Estates
+title: Titel
+image: Afbeelding
+condition: Voorwaarde
+sales_price: Sales price
+price_per_unit: de prijs per eenheid,
+rent_price: Huurprijs
+energy_efficiency: Energie-efficiëntie
+custom_fields: Aangepaste velden
+view_on_map: Bekijk op kaart
+featured_image: Featured Image
+estate_add_status_video: Maak eerst landgoed. Dan zul je in staat zijn om youtube of vimeo url toevoegen vanuit edit optie
+estate_add_status_gallery: 'Maak eerst eigendom. Dan zul je in staat zijn om galerij foto&#39;s van edit optie uploaden'
+create: Aanmaken
+basic_info: Basisinformatie
+estate_brochure: Estate Brochure
+add_another: Nog een toevoegen
+update: Update
+subject: Onderwerp
+send: Verzenden
+all_email_to_agent: Alle e-mails naar Agents
+actions: Handelingen
+name: Naam
+email_detail: Email Detail
+change_package: Verandering van de verpakking
+bank_transfer: Bank Transfer
+contact_subject: 'Adresse électronique du contact*'
+payment_finish_title: Betaling voltooid
+payment_renew_title: Betaling voltooid
+payment_finish_text: Uw betaling is voltooid. Zodra we kregen bevestiging van PayPal uw account wordt geactiveerd
+payment_renew_text: Uw betaling is voltooid. Zodra we kregen bevestiging van paypal uw account zal worden verlengd
+payment_cancel_title: Betaling annuleren
+payment_cancel_text: Uw betaling wordt geannuleerd
+feature_payment_finish: Uw betaling is voltooid. Zodra we ontvangen van een bevestiging van paypal, zal uw nalatenschap worden gekenmerkt.
+feature_payment_cancel: Uw betaling wordt geannuleerd.

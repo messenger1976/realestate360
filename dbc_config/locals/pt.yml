@@ -1,0 +1,153 @@
+---
+DBC_PURPOSE_SALE: Compra
+DBC_PURPOSE_RENT: Aluguer
+DBC_PURPOSE_BOTH: Compra
+DBC_TYPE_APARTMENT: Apartamento
+DBC_TYPE_HOUSE: Casa
+DBC_TYPE_LAND: Terra
+DBC_TYPE_COMSPACE: Espaço Comercial
+DBC_CONDITION_NEW: Novo
+DBC_CONDITION_SOLD: Vendida!
+DBC_CONDITION_AVAILABLE: Disponível
+DBC_CONDITION_AUCTION: Leilão
+sign_in: Iniciar sessão
+sign_up: Inscrever-se
+agent_panel: Painel Agent
+admin_panel: Painel de Administração
+logout: Sair
+find_your_place: Encontre seu lugar
+search_text_banner: Pesquisar por Endereço, Bairro, Cidade ou Estado
+DBC_ADVANCED_SEARCH: Pesquisa Avançada
+recent_estates: Estates recentes
+DBC_AGENTS: químicos
+no_estates_found: Não Estates Encontrado
+DBC_HOME: Início
+DBC_ABOUT: Sobre
+DBC_CONTACT: Contato
+plain_search: Pesquisa Plain
+ignore_this_section: Ignorar esta seção
+location_search: Localização Pesquisa
+country: País
+state_province: Estado/Província
+city: Cidade
+price: Preço
+bedrooms: Quartos
+bathrooms: Instalações sanitárias
+year_built: Ano de construção
+phone: TELEFONE
+first_name: Nome Próprio
+last_name: Sobrenome
+company_name: Nome da Empresa
+register: Registrar
+type: Tipo
+area: Área
+details: Detalhes
+view_all: Ver tudo
+featured_estates: Estates em destaque
+order_by: 'Ordenar por:'
+none: Nenhuma
+terms_and_conditions: Termos e Confition
+reg_success_message: O seu registo conta é bem sucedido. Um e-mail foi enviado para o seu e-mail. Por favor, siga o e-mail para ativar suas account.Thanks
+limit: Limite
+usage: Uso
+recover: Recuperar
+oops: Página não encontrada
+share_this: Partilhar esta aplicação
+baths: Bath
+status: Estado
+description: Descrição
+general_amenities: Serviços Gerais
+location_map: Mapa da Localização
+image_gallery: Galeria de Imagens
+summary: Resumo
+overview: Visão Geral
+address: Endereço
+agent: Agente
+message: Mensagem
+username: Nome de utilizador
+about_me: sobre mim
+DBC_PER_MONTH: por mês
+DBC_PER_QUARTER: Por trimestre
+DBC_PER_YEAR: Por ano
+DBC_TYPE_CONDO: Condomínio
+DBC_TYPE_VILLA: Villa
+type_filers: Tipo Filtros
+purpose_filters: Filtros Finalidade
+email_subject: Assunto do e-mail
+all: Tudo
+DBC_DELETED: Excluído
+agent_estates: Agente Estates
+all_agents: Todos os agentes
+contact_us: Entre em contato conosco
+DBC_ACTIVE: Ativo
+radius: Raio
+featured_video: Vídeo em Destaque
+estates: Propriedades
+embed_video_url: Embeded Video Url
+DBC_PENDING: Pendente
+profile_picture: A sua imagem de perfil
+top_estates: Top Estates
+estate: Estado
+email_tracker: Email Tracker
+bulk_email: Spam
+advanced_filters: Filtros avançados
+purpose: Propósito
+result: Resultado
+agent_not_found: Agente não encontrado
+payment_notification: Você vai fazer um pagamento. Um e-mail é enviado para o seu e-mail. Você pode voltar para esta etapa a qualquer hora a partir do link em que e-mail.
+confirmation: Crisma
+distance: Distância
+tags: Marcações
+zip_code: Código Postal (CEP)
+embed_preview: Embed prévia
+login: Início de sessão
+post_not_found: Não localizado
+view_more: Veja mais
+choose_a_package: Escolha um Pacote
+no_package_found: Nenhum pacote encontrado
+days: Dia
+posts: Posts
+change: Alteração
+subscribe: Inscrever-se
+home_size: Início Tamanho
+lot_size: Tamanho do lote
+DBC_PAGES: Páginas
+DBC_BLOG: Blog
+DBC_NEWS: Notícias
+DBC_ARTICLES: Artigo
+DBC_REPORTED: Informou
+all_estates: Todos os Estates
+title: 'Título:'
+image: Imagem
+condition: Condição
+sales_price: preço de venda
+price_per_unit: o preço por unidade,
+rent_price: Aluguel Preço
+energy_efficiency: Eficiência energética
+custom_fields: Campos Personalizados
+view_on_map: Ver no Mapa
+featured_image: Imagem em destaque
+estate_add_status_video: Primeiro crie propriedade. Então você vai ser capaz de adicionar youtube ou vimeo url de editar opção
+estate_add_status_gallery: Primeiro crie propriedade. Então você vai ser capaz de fazer upload de fotos galeria de editar opção
+create: Criar
+basic_info: Dados básicos
+estate_brochure: Brochura Estate
+add_another: Adicionar outro
+update: Atualização
+subject: Disciplina
+send: Enviar
+all_email_to_agent: Todos os e-mails aos Agentes
+actions: Ações
+name: Nome
+email_detail: Email Detalhe
+change_package: Escolher Pacote
+bank_transfer: Transferência bancária
+contact_subject: 'Email de contato:'
+payment_finish_title: Completar o pagamento
+payment_renew_title: Completar o pagamento
+payment_finish_text: Seu pagamento está completo. Assim que recebeu a confirmação do paypal sua conta será ativada
+payment_renew_text: Seu pagamento está completo. Assim que recebeu a confirmação do paypal a sua conta será renovada
+payment_cancel_title: Pagamento Cancelar
+payment_cancel_text: O seu pagamento é cancelado
+feature_payment_finish: Seu pagamento está completo. Assim que receber a confirmação do paypal, sua propriedade será apresentado.
+feature_payment_cancel: Seu pagamento será cancelado.

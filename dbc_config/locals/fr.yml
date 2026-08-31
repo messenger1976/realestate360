@@ -1,0 +1,153 @@
+---
+DBC_PURPOSE_SALE: Soldes
+DBC_PURPOSE_RENT: Louer
+DBC_PURPOSE_BOTH: Soldes
+DBC_TYPE_APARTMENT: Appartement
+DBC_TYPE_HOUSE: Maison
+DBC_TYPE_LAND: Terre
+DBC_TYPE_COMSPACE: Espace commercial
+DBC_CONDITION_NEW: Nouveau
+DBC_CONDITION_SOLD: Vente
+DBC_CONDITION_AVAILABLE: Disponible
+DBC_CONDITION_AUCTION: Enchère
+sign_in: S'identifier
+sign_up: S'inscrire
+agent_panel: Panneau Agent
+admin_panel: 'panneau d&#39;administration'
+logout: Déconnexion
+find_your_place: Trouvez votre place
+search_text_banner: Rechercher Adresse, Quartier, Ville ou État
+DBC_ADVANCED_SEARCH: Conseils de recherche
+recent_estates: Estates récentes
+DBC_AGENTS: Agent
+no_estates_found: Aucun bien trouvé
+DBC_HOME: Accueil
+DBC_ABOUT: À propos de
+DBC_CONTACT: Contact
+plain_search: Recherche plaine
+ignore_this_section: Ignorer cette section
+location_search: Localisation Recherche
+country: Pays
+state_province: État/Province
+city: Ville
+price: Prix
+bedrooms: Chambre à coucher
+bathrooms: Salle de bains
+year_built: Année de construction
+phone: Téléphone
+first_name: Prénom
+last_name: Nom de famille
+company_name: Nom de l'entreprise
+register: Enregistrer
+type: Type
+area: Zone
+details: Détails
+view_all: Tout voir
+featured_estates: Estates vedette
+order_by: Trier par
+none: Aucun
+terms_and_conditions: Termes et Confition
+reg_success_message: 'Votre inscription en compte est réussie. Un e-mail a été envoyé à votre adresse email. S&#39;il vous plaît suivre ce courriel pour activer vos account.Thanks'
+limit: Limite
+usage: Utilisation
+recover: Recovery
+oops: Oops, page introuvable
+share_this: 'Partagez ceci :'
+baths: Bath
+status: Statut
+description: Description
+general_amenities: Services généraux
+location_map: Carte du lieu
+image_gallery: Plus d'images
+summary: Résumé
+overview: Aperçu
+address: Adresse
+agent: Agent
+message: Message
+username: Nom d'utilisateur
+about_me: À propos de moi
+DBC_PER_MONTH: par mois
+DBC_PER_QUARTER: Au trimestre
+DBC_PER_YEAR: (par exemple par an).
+DBC_TYPE_CONDO: Copropriété
+DBC_TYPE_VILLA: Villa
+type_filers: Filtres
+purpose_filters: Filtres à usage
+email_subject: "Objet de l'e-mail :"
+all: Tous
+DBC_DELETED: Supprimé
+agent_estates: Agent Estates
+all_agents: Tous les agents
+contact_us: Contactez-nous
+DBC_ACTIVE: Actif
+radius: Rayon
+featured_video: Vidéo en vedette
+estates: Estates
+embed_video_url: Embedded Video Url
+DBC_PENDING: En attente
+profile_picture: Profile Picture
+top_estates: Top Estates
+estate: Estate
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Filtres spéciaux
+purpose: Objectif
+result: Résultats
+agent_not_found: Agent non trouvé
+payment_notification: Vous allez effectuer un paiement. Un email est envoyé à votre adresse email. Vous pouvez revenir à cette étape tout moment à partir du lien sur cet e-mail.
+confirmation: Confirmation
+distance: Distance
+tags: Mots clé
+zip_code: Code ZIP
+embed_preview: Intégrer Aperçu
+login: Se connecter
+post_not_found: Non trouvé
+view_more: Voir Plus
+choose_a_package: Choisir un ensemble
+no_package_found: Aucun paquet trouvé
+days: Jours
+posts: Messages
+change: changement
+subscribe: Inscription
+home_size: Accueil Taille
+lot_size: Dimensions du terrain
+DBC_PAGES: Pages
+DBC_BLOG: Blog
+DBC_NEWS: Actualités
+DBC_ARTICLES: Articles
+DBC_REPORTED: Rapport
+all_estates: Tous Estates
+title: Titre
+image: Image
+condition: Condition
+sales_price: prix de vente
+price_per_unit: le prix unitaire,
+rent_price: Loyer Prix
+energy_efficiency: Économies d'énergie
+custom_fields: Champs personnalisés
+view_on_map: Voir sur la carte
+featured_image: Photo descriptive
+estate_add_status_video: 'D&#39;abord créer immobilier. Ensuite, vous serez en mesure d&#39;ajouter youtube ou vimeo url de l&#39;option d&#39;édition'
+estate_add_status_gallery: 'Créez d&#39;abord la propriété. Ensuite, vous serez en mesure de télécharger la galerie photos de l&#39;option d&#39;édition'
+create: Créer
+basic_info: Informations générales
+estate_brochure: Brochure Estate
+add_another: Ajouter un autre
+update: Mettre à jour
+subject: Objet
+send: Envoyer
+all_email_to_agent: Tous les e-mails à des agents
+actions: Actions
+name: Nom
+email_detail: Email Détail
+change_package: Changer le package
+bank_transfer: Virement bancaire
+contact_subject: Contact Courriel
+payment_finish_title: Le paiement complet
+payment_renew_title: Le paiement complet
+payment_finish_text: Votre paiement est terminé. Dès que nous avons reçu la confirmation de paypal, votre compte sera activé
+payment_renew_text: Votre paiement est terminé. Dès que nous avons reçu la confirmation de votre compte paypal sera renouvelé
+payment_cancel_title: Paiement Annuler
+payment_cancel_text: Votre paiement est annulé
+feature_payment_finish: Votre paiement est terminé. Dès que nous recevons la confirmation de paypal, votre succession sera présenté.
+feature_payment_cancel: Votre paiement est annulé.
